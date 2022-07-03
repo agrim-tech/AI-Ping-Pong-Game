@@ -1,0 +1,8 @@
+.heading{
+    width:100%;
+}
+body{
+    background-image: url('bg.jpg');
+    background-size: cover;
+    font-family: 'Libre Franklin', sans-serif; 
+}
